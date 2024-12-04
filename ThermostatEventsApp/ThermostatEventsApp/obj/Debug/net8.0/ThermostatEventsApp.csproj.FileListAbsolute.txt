@@ -1,0 +1,15 @@
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.exe
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.deps.json
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.runtimeconfig.json
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.dll
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.pdb
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.AssemblyInfoInputs.cache
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.AssemblyInfo.cs
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.sourcelink.json
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.dll
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\refint\ThermostatEventsApp.dll
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.pdb
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.genruntimeconfig.cache
+C:\Users\spark\source\repos\SchoolHRAdministration\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\net8.0\ref\ThermostatEventsApp.dll

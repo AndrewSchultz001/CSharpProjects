@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spark\\source\\repos\\SchoolHRAdministration\\ThermostatEventsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2462F4-3827-430C-9254-0B462604DBE5}|ThermostatEventsApp\\ThermostatEventsApp.csproj|c:\\users\\spark\\source\\repos\\schoolhradministration\\thermostateventsapp\\thermostateventsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2462F4-3827-430C-9254-0B462604DBE5}|ThermostatEventsApp\\ThermostatEventsApp.csproj|solutionrelative:thermostateventsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spark\\source\\repos\\SchoolHRAdministration\\ThermostatEventsApp\\ThermostatEventsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ThermostatEventsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\spark\\source\\repos\\SchoolHRAdministration\\ThermostatEventsApp\\ThermostatEventsApp\\Program.cs",
+              "RelativeToolTip": "ThermostatEventsApp\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:49:18.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

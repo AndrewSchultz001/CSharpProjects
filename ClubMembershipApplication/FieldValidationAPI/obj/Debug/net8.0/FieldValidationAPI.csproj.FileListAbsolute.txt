@@ -1,0 +1,12 @@
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\bin\Debug\net8.0\FieldValidationAPI.deps.json
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\bin\Debug\net8.0\FieldValidationAPI.dll
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\bin\Debug\net8.0\FieldValidationAPI.pdb
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.AssemblyInfoInputs.cache
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.AssemblyInfo.cs
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.sourcelink.json
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.dll
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\refint\FieldValidationAPI.dll
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.pdb
+C:\Users\spark\source\repos\SchoolHRAdministration\ClubMembershipApplication\FieldValidationAPI\obj\Debug\net8.0\ref\FieldValidationAPI.dll
